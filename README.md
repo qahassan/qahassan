@@ -35,6 +35,17 @@
 - 🛡️ Passionate about robust testing, detail-oriented design verification, and building a bridge between development and flawless user experiences.
 - ⚡ Fun fact: I spend 10% of my time writing test cases, 40% executing them, and 50% explaining to developers how I broke their code. 😉
 
+### 🧪 QA Quality Gate Assertion Status
+```bash
+[PASS] API Endpoint Verification (Postman/Insomnia) .......... 100%
+[PASS] Regression Suite: Foster Ferret & SeedFunds ........... 100%
+[PASS] UI Responsiveness & Cross-Browser Validation .......... 100%
+[PASS] Boundary Value Analysis & Edge Case Assertions ........ 100%
+[PASS] Security Check: Data Integrity & Auth Tokens .......... 100%
+------------------------------------------------------------------
+STATUS: 200 OK | BUILD: SUCCESS | RELEASES SIGNED OFF: 7/7
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technologies & Tools
@@ -96,6 +107,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qahassan&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qahassan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qahassan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
