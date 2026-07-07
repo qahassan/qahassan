@@ -186,10 +186,6 @@ Currently, I don't hold a formal QA certification. My focus so far has been buil
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qahassan&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qahassan&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
